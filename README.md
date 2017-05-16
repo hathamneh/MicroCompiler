@@ -7,5 +7,5 @@ _This project could be used as a start point for those who wants to learn more a
 [ANTLR](http://www.antlr.org/) is used for generating the code for Scanner and Parser parts of the project, the rest of code is handcrafted by me.
 For more help about ANTLR [see their docs](https://github.com/antlr/antlr4/blob/master/doc/index.md)
 
-##About this project
+## About this project
 This project was part of compilers course taken in University of Jordan, with Dr. Fahed Jubair (f.jubair@ju.edu.jo).
