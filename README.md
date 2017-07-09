@@ -1,5 +1,5 @@
 # Micro Compiler
-**A very tiny compiler for a just-for-fun language called Micro and it translates it into 3 address code called Tiny.**
+**A very tiny compiler just-for-fun made for language called Micro and it translates it into 3 address code called Tiny.**
 
 _This project could be used as a start point for those who wants to learn more about compilers_
 
